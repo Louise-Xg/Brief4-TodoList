@@ -1,0 +1,88 @@
+body, input, button {
+  font-family:"Dancing Script", cursive;
+  font-size: 1.5rem;
+  padding:1rem;
+}
+
+input {
+  color: #000000;
+  border: 2px solid #000000;
+  border-radius: 10px;
+  padding: 10px 25px;
+  background: transparent;
+  max-width: 190px;
+  margin:0.5rem;
+}
+
+input:active {
+  box-shadow: 2px 2px 15px #000000 inset;
+}
+
+button{
+  padding: 0.6em 2em;
+  border: none;
+  outline: none;
+  color: #ffffff;
+  background: #503b0c;
+  cursor: pointer;
+  position: relative;
+  z-index: 0;
+  border-radius: 10px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+
+  font-size: 1rem;
+}
+
+button:before {
+  content: "";
+  background: linear-gradient(45deg,
+      #e29511,
+      #f3e40c,
+      #573d11);
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  background-size: 400%;
+  z-index: -1;
+  filter: blur(5px);
+  -webkit-filter: blur(5px);
+  width: calc(100% + 4px);
+  height: calc(100% + 4px);
+  animation: glowing-button-85 20s linear infinite;
+  transition: opacity 0.3s ease-in-out;
+  border-radius: 10px;
+}
+
+@keyframes glowing-button-85 {
+  0% {
+    background-position: 0 0;
+  }
+
+  50% {
+    background-position: 400% 0;
+  }
+
+  100% {
+    background-position: 0 0;
+  }
+}
+
+button:after {
+  z-index: -1;
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: #503b0c;
+  left: 0;
+  top: 0;
+  border-radius: 10px;
+}
+
+li {
+  list-style-type: "🧸";
+  padding:0.5rem;
+}
+
