@@ -4,6 +4,7 @@ Cadre : Formation DWWM.
 Le but est de créer une page "To-do List" incluant un titre, un champ pour le input, un bouton cliquable et les tâches apparaissant progressivement en fonction du input. 
 
 Ce répertoire contient : 
+
 1 Branche "main" : 
     - readme.md : le readme présente le contexte et les fichiers contenus au sein du répertoire/branche.
     - index.html : le fichier html contenant le squelette de la page. 
