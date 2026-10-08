@@ -19,5 +19,5 @@ Ce répertoire contient :
 
 
 Validation W3C : 
-![Check_html_file](validator_w3c_for_html.png)
+![Check_html_file](./validator_w3c_for_html.pngvalidator_w3c_for_html.png)
 
