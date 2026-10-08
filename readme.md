@@ -17,3 +17,7 @@ Ce répertoire contient :
 - style.css : le fichier contenant l'esthétique de la page (pour le fun). 
 - consigne.md : contenant les consignes pour le brief 4.
 
+
+Validation W3C : 
+![Check_html_file](validator_w3c_for_html.png)
+
