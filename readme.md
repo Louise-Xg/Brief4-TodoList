@@ -8,5 +8,5 @@ Cette branche "lvl1" contient :
 - index.html : contenant le squelette de la page. 
 - todolist.js : le fichier javascript contenant les fonctionnalités du bouton et l'apparition progressive de la liste des tâches ajoutées en input. 
 - style.css : le fichier contenant l'esthétique de la page (pour le fun). 
-- consigne.md : contenant les consignes pour le brief 4.
+- consigne.md : contenant les consignes pour le brief lvl1.
 
