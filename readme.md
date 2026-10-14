@@ -1,11 +1,11 @@
 # Brief : To do list 
 
 Cadre : Formation DWWM.
-Le but est de créer une page "To-do List" incluant un titre, un champ pour le input, un bouton cliquable et les tâches apparaissant progressivement en fonction du input. 
+Le but est de créer une page "To-do List". 
 
 Ce répertoire contient : 
 
-1 Branche "main" : 
+1 Branche "main" (basée pour le moment sur la branche lvl1): 
 - readme.md : le readme présente le contexte et les fichiers contenus au sein du répertoire/branche.
 - index.html : le fichier html contenant le squelette de la page. 
 - todolist.js : le fichier javascript contenant les fonctionnalités du bouton et l'apparition progressive de la liste des tâches ajoutées en input. 
