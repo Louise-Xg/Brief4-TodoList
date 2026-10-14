@@ -10,13 +10,11 @@ Cadre : Formation DWWM. Le but est de créer une page "To-do List" permettant no
 - de vider le champ de saisie après l’ajout ;
 - de replacer le focus dans le champ de saisie.
 
-Ce répertoire contient :
+Cette branche "lvl2" contient :
 
-1 Branche "main" :
-
-readme.md : le readme présente le contexte et les fichiers contenus au sein du répertoire/branche.
-index.html : le fichier html contenant le squelette de la page.
-todolist.js : le fichier javascript contenant l'ajout de tâches, validation du champ de saisie, suppression d’une tâche, marquage d’une tâche comme terminée, ajout via la touche Entrée, vidage du champ et remise du focus après l’ajout.
+- readme.md : le readme présente le contexte et les fichiers contenus au sein du répertoire/branche.
+- index.html : le fichier html contenant le squelette de la page.
+- todolist.js : le fichier javascript contenant l'ajout de tâches, validation du champ de saisie, suppression d’une tâche, marquage d’une tâche comme terminée, ajout via la touche Entrée, vidage du champ et remise du focus après l’ajout.
 
 ## Problèmes rencontrés
 
